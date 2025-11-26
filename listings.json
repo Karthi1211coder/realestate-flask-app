@@ -26,5 +26,19 @@
         "distance_main_road": "500m",
         "zoning": "Residential",
         "action": "save_draft"
+    },
+    {
+        "location": "bangalore",
+        "price_range": "55555",
+        "facing": "North",
+        "landmarks": "park",
+        "description": "hhh",
+        "email": "spkarthik1211@gmail.com",
+        "mobile": "08792319148",
+        "area": "400",
+        "road_width": "7 m",
+        "distance_main_road": "500m",
+        "zoning": "Commercial",
+        "action": "save_draft"
     }
 ]
