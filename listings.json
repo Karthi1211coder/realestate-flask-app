@@ -1,0 +1,30 @@
+[
+    {
+        "location": "Hassan",
+        "price_range": "5000",
+        "facing": "North",
+        "landmarks": "park",
+        "description": "gcrxf",
+        "email": "spkarthik1211@gmail.com",
+        "mobile": "06361759471",
+        "area": "400",
+        "road_width": "7 m",
+        "distance_main_road": "500m",
+        "zoning": "Commercial",
+        "action": "submit"
+    },
+    {
+        "location": "Hassan",
+        "price_range": "5000",
+        "facing": "East",
+        "landmarks": "park",
+        "description": "hh",
+        "email": "spkarthik1211@gmail.com",
+        "mobile": "06361759471",
+        "area": "400",
+        "road_width": "7 m",
+        "distance_main_road": "500m",
+        "zoning": "Residential",
+        "action": "save_draft"
+    }
+]

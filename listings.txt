@@ -1,0 +1,34 @@
+Location: bangalore
+Price Range: 5000
+Facing: East
+Landmarks: park
+Description: 2 acers in vijaynagar
+Email: karthik@gmail.com
+Mobile: 33333333
+Bedrooms: 
+Bathrooms: 
+Area: 400
+Road Width: 7 m
+Distance Main Road: 500m
+Zoning: Residential
+Action: submit
+
+---
+
+Location: string:Bengaluru
+Price Range: 5000
+Facing: East
+Landmarks: park
+Description: vg
+Email: spkarthik1211@gmail.com
+Mobile: 08792319148
+Bedrooms: 
+Bathrooms: 
+Area: 400
+Road Width: 7 m
+Distance Main Road: 500m
+Zoning: Residential
+Action: save_draft
+
+---
+
